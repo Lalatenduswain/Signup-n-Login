@@ -20,17 +20,12 @@ The `register.php` file contains a web form that enables users to register thems
 
 ## Login System
 
-### Login Form and Script
-
-The login process is handled by `login.php`. When a user submits the username and password, these inputs are verified against the stored credentials in the database. If there is a match, the user will be authorized and granted access to the site or page.
-
 ### Welcome Page
 
 After a successful login, the user is redirected to `welcome.php`.
 
-### Password Reset
+### Signup
 
-Logged-in users have the option to reset their password for their registered account. The script for this functionality can be found in `password_reset.php`.
 
 <hr />
 <small>If you found this project useful, please give it a ⭐ and follow me for more interesting projects in the future.</small>
